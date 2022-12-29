@@ -57,3 +57,4 @@ Following is a list of commonly used operations. The idea is the same. Each oper
 <li>tf.exp(a)</li>
 <li>tf.sqrt(a)</li>
 </ul>
+

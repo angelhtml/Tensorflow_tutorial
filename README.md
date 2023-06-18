@@ -1,5 +1,5 @@
 
-<h1>tensorflow tutorial</h1>              
+<h1>Tensorflow tutorial</h1>              
 
 <h2>Create a tensor of n-dimension 📜</h2>
 You begin with the creation of a tensor with one dimension, namely a scalar<br/>
